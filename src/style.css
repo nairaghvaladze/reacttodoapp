@@ -1,0 +1,53 @@
+body {
+    
+   background-color: rgb(230, 163, 18)!important;
+}
+
+.app{
+    margin:auto;
+    margin-top: 5%;
+    background-color: rgb(24, 241, 241);
+    width: 500px;
+    border-radius:8px;
+    padding: 30px;
+}
+
+.todo{
+    display: flex;
+    margin-bottom: 10px;
+    font-weight: 700;
+ 
+}
+.todo-button {
+    margin-left: auto;
+}
+h1 {
+    text-align: center;
+}
+.index {
+    color: red;
+    font-weight: 700;
+    margin-left: 5px;
+}
+.complete{
+    font-weight: 400;
+    background-color: blue !important;
+    color: azure;
+    border-radius:2px;
+    border: none;
+    height: 20px;
+   
+}
+.input {
+    width: 100%;
+    height: 25px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border-color: 2px solid white !important;
+}
+.input1 {
+    border:none;
+    outline: none;
+    height: 40px;
+    padding: 8px;
+}
